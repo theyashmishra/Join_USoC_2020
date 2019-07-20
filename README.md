@@ -39,7 +39,6 @@ The only restriction we impose is that your action or words must not hurt others
 We are working on a lot of stuff and we will help you to find an appropriate place in one or some of them. You can start working on your idea as well under our initiative and other members will join and help you. Best of luck in improving the world.
 
 ## We are looking forward for working with you and enjoying this ride of free contributions. :wine_glass: :cake: :dancer: 
-
 “When we all come together and try to create a space so positive and conducive, no one can stop us in achieving what we aspire for.”
 
 
