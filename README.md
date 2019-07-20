@@ -6,6 +6,13 @@ To be able to come together to make you realise your potential and what heights 
 
 There is no match of a person who knows his strength and then performs to its maximum level. TechWalt is an organization which help beginners to get familiar with open source and helps them to get started with their first contribution in open source.
 
-# How Do Join?
+# How Do I Join?
 
 This Community is for Learning purpose. So it is open for everyone with a demonstrated intrest in collaborating in open source projects.
+
+## WhatsApp (*Chat for Contributors*!)
+
+[![Join the chat at https://gitter.im/dwyl/chat](https://badges.gitter.im/Join%20Chat.svg)](https://chat.whatsapp.com/FAjjRN3Czum5YULh0wrpkv)
+```md
+[![Join the chat at https://Whatsapp.im/{ORG-or-USERNAME}/{REPO-NAME}](https://badges.Whatsapp.im/Join%20Chat.svg)](https://chat.whatsapp.com/FAjjRN3Czum5YULh0wrpkv)
+```
