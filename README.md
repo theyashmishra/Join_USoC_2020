@@ -14,7 +14,7 @@ We are starting from a very small community, But growing group of newly comming 
 
 One possible of joining us is by Creating a new issue [here](https://github.com/priyansh19/Join_TechWalt/issues/new) Or The best way is to contribute in one of our projects.
 
-You can also join uss by Adding your name in the *Members* Section of contributors section of CONTRIBUTORS.md and then creating a Pull Request to merge those changes into the main Repository
+You can also join uss by Adding your name in the *Members* Section of contributors section of [CONTRIBUTORS.md](https://github.com/priyansh19/Join_TechWalt/blob/master/CONTRIBUTORS.md) and then creating a Pull Request to merge those changes into the main Repository
 
 ### WhatsApp (*Chat for Contributors*!)
 
