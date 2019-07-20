@@ -13,7 +13,7 @@ Core Beliefs we abide by :
 *	Creating a space solely for revolutionizing the way of coding. 
 *	A platform for endless learning and where everyone can contribute.
 
-# How Do I Join?
+## How Do I Join?
 
 This Community is for Learning purpose. So it is open for everyone with a demonstrated intrest in collaborating in open source projects.
 
@@ -28,9 +28,9 @@ You can also join uss by adding your name in the *Members* section of contributo
 ```md
 (https://chat.whatsapp.com/FAjjRN3Czum5YULh0wrpkv)
 ```
-# Contact
+## Contact
 
 One can get in touch with us by opening a new issue [here](https://github.com/priyansh19/Join_TechWalt/issues/new)
 
-# Guidelines For Joining TechWalt :
+## Guidelines For Joining TechWalt :
 
