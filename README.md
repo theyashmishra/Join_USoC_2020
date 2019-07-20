@@ -32,5 +32,14 @@ You can also join uss by adding your name in the *Members* section of contributo
 
 One can get in touch with us by opening a new issue [here](https://github.com/priyansh19/Join_TechWalt/issues/new)
 
-## Guidelines For Joining TechWalt :
+## Guidelines 
+
+The only restriction we impose is that your action or words must not hurt others. We do realize that sometimes one may get hurt unintentionally. It is important to realize that we are a **one big family** and at the end of the day, our purpose boils down to making everyone happy. Let us make our Earth a better place.
+
+We are working on a lot of stuff and we will help you to find an appropriate place in one or some of them. You can start working on your idea as well under our initiative and other members will join and help you. Best of luck in improving the world.
+
+## We are looking forward for working with you and enjoying this ride of free contributions. :wine_glass: :cake: :dancer: 
+
+“When we all come together and try to create a space so positive and conducive, no one can stop us in achieving what we aspire for.”
+
 
