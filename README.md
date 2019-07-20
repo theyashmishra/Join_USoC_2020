@@ -10,8 +10,9 @@ There is no match of a person who knows his strength and then performs to its ma
 
 This Community is for Learning purpose. So it is open for everyone with a demonstrated intrest in collaborating in open source projects.
 
+
 ### WhatsApp (*Chat for Contributors*!)
 
 ```md
-[![Join the chat at https://Whatsapp.im/{ORG-or-USERNAME}/{REPO-NAME}](https://badges.Whatsapp.im/Join%20Chat.svg)](https://chat.whatsapp.com/FAjjRN3Czum5YULh0wrpkv)
+(https://chat.whatsapp.com/FAjjRN3Czum5YULh0wrpkv)
 ```
