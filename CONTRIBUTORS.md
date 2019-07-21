@@ -5,6 +5,7 @@
 
 # Contributors
 
-1. [Piyush Garg](https://github.com/PU1138) :
-Student @ UPES Dehradun | Bigdata.
-2. 
+1. 
+
+2. [Piyush Garg](https://github.com/PU1138) : Student @ UPES Dehradun | Bigdata.
+
