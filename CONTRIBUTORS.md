@@ -5,5 +5,7 @@
 
 # Contributors
 
-1. [SomeOne Who will Win this position]
-2. 
+1. 
+
+2. [Piyush Garg](https://github.com/PU1138) : Student @ UPES Dehradun | Bigdata.
+
