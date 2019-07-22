@@ -3,6 +3,7 @@
 1. [Priyansh Gupta](https://github.com/priyansh19) : Student @ UPES Dehradun | Aspiring Data Scientist | Bigdata.
 2. [Sugam Agarwal](https://github.com/heyeddard) : Student @ UPES Dehradun | Aspiring Data Analyst | Bigdata
 3. [Sachin Mondal](https://github.com/sachin161994) : Student @ UPES Dehradun | Aspiring Data Scientist | Bigdata
+4. [Shubham Arora](https://github.com/Shubham915Arora) : Student @ UPES Dehradun | ML Enthusiast | Bigdata
 
 # Contributors
 
