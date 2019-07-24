@@ -9,5 +9,5 @@
 
 1. [ Someone who deserves this **Position** will be updated soon. ] 
 2. [Piyush Garg](https://github.com/PU1138) : Student @ UPES Dehradun | Bigdata.
-3.[Tanya](https://github.com/ciertotanya09) : Student @ UPES 2nd year Dehradun | Bigdata | 
+3. [Tanya](https://github.com/ciertotanya09) : Student @ UPES 2nd year Dehradun | Bigdata.
 4. [LAKSHAY GUPTA](https://github.com/lakshay4040) : Student @ UPES Dehradun | Aspiring Big Data Scientist. 
