@@ -23,10 +23,10 @@ One possible of joining us is by creating a new issue [here](https://github.com/
 
 You can also join uss by adding your name in the *Members* section of contributors section of [CONTRIBUTORS.md](https://github.com/priyansh19/Join_TechWalt/blob/master/CONTRIBUTORS.md) and then creating a Pull Request to merge those changes into the main Repository
 
-### WhatsApp (*Chat for Contributors*!)
+### WhatsApp (*Group of Contributors*!)
 
 ```md
-(https://chat.whatsapp.com/FAjjRN3Czum5YULh0wrpkv)
+https://chat.whatsapp.com/FAjjRN3Czum5YULh0wrpkv
 ```
 ## Contact
 
