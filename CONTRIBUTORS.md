@@ -12,3 +12,4 @@
 3. [Tanya](https://github.com/ciertotanya09) : Student @ UPES 2nd year Dehradun | Bigdata.
 4. [LAKSHAY GUPTA](https://github.com/lakshay4040) : Student @ UPES Dehradun | Aspiring Big Data Scientist. 
 5. [BHAVY PRATAP](https://gitHub.com/BhavyPratap) : Student @ UPES DEHRADUN | Aspiring Data Scientist.
+6. [Arjun Sharma](https://github.com/rjrockzz) : Student
