@@ -1,5 +1,7 @@
 # USoC2020 Organization
 
+[![Gitter](https://badges.gitter.im/USoC-2020/community.svg)](https://gitter.im/USoC-2020/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
 > <center> “With you, is our strength. :muscle: ” </center>
 
 To be able to come together to make you realise your potential and what heights you may go have always been our sole mission. We know that everyone has this never ending energy in themselves to do the best of everything but there is a need to channelize it.
@@ -22,6 +24,11 @@ We are starting from a very small community, But growing group of newly comming 
 One possible of joining us is by creating a new issue [here](https://github.com/priyansh19/Join_USoC_2020/issues/new) Or The best way is to contribute in one of our projects.
 
 You can also join uss by adding your name in the *Members* section of contributors section of [CONTRIBUTORS.md](https://github.com/priyansh19/Join_USoC_2020/blob/master/CONTRIBUTORS.md) and then creating a Pull Request to merge those changes into the main Repository
+
+## Gitter Channel Link 
+```
+https://gitter.im/USoC-2020/community?utm_source=share-link&utm_medium=link&utm_campaign=share-link
+```
 
 ## Contact
 
