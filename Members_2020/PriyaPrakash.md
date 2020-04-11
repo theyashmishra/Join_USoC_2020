@@ -1,1 +1,1 @@
-Hello Everyone, My name is Priya Prakash, second year student from CCVT. I am interested in Web develoment.
+Name : Priya Prakash Year : 2nd Year College : University of petroleum and energy studies Tech Stack : C, C++, java, HTML, Cisco Packet tracer, AWS
