@@ -1,2 +1,3 @@
-Hello everyone, 
-This is muskaan mahendru from ccvt 3rd year.
+Name: Muskaan Mahendru
+Year: 3rd Year
+Tech Stack: Java, PHP, HTML, CSS, MySql
